@@ -1,0 +1,47 @@
+
+body {
+  background: #111;
+  color: #eee;
+  font-family: monospace;
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #ff2a2a;
+  margin-bottom: 1rem;
+}
+
+.spread-select button {
+  background: transparent;
+  border: 1px solid #ff2a2a;
+  color: #ff2a2a;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.card {
+  background: #222;
+  border: 1px solid #444;
+  margin: 1rem;
+  padding: 1rem;
+  width: 250px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card audio {
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "The Drip",
+    "set": "Base Deck",
+    "type": "Major Dumbass Arcana",
+    "description": "Style as salvation. Aesthetic as gospel. Drip as divinity.",
+    "upright": "Charisma, mystique, iconography.",
+    "reversed": "Shallow influence, deception through image.",
+    "quote": "They don’t follow you. They follow the jacket.",
+    "voice": "If I look holy, I must be.",
+    "imagePrompt": "A cult leader glowing in surreal designer robes. Followers wear cheap knockoffs."
+  },
+  {
+    "name": "The Witness",
+    "set": "Expansion I: The Signs",
+    "type": "Character Archetype",
+    "description": "The one who saw too much and still stayed.",
+    "upright": "Devotion through knowing, sacred endurance.",
+    "reversed": "Complicity, passive suffering, trauma denial.",
+    "quote": "You can’t unsee salvation.",
+    "voice": "I saw it all. And I still stayed.",
+    "imagePrompt": "A figure with burned-out eyes calmly watching a cult ritual through a cracked stained-glass lens."
+  },
+  {
+    "name": "The Ash Child",
+    "set": "Expansion II: Delirium Arcana",
+    "type": "Wild Card - Cinders of Desire",
+    "description": "Rebirth from failure, innocence through flame.",
+    "upright": "Rebirth from failure, innocence through flame.",
+    "reversed": "Loss of self in passion, dangerous naivety.",
+    "quote": "They burned and became beautiful.",
+    "voice": "I’m not who you started.",
+    "imagePrompt": "A childlike figure made of ash and ember, smiling softly amid ruin."
+  }
+]
